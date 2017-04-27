@@ -1,6 +1,6 @@
 # IEEE-CIG-2016-Text-based-Adventure-AI-Competition-Winning-Agent
 
-This is the source code for the agent that won the IEEE CIG 2016 Text-based adventure AI Competition. It has been formatted to work with [Autoplay](https://github.com/danielricks/autoplay).
+This is the source code for the agent that won the IEEE CIG 2016 Text-based adventure AI Competition. It has been formatted to work with [autoplay](https://github.com/danielricks/autoplay).
 
 ## Usage
 
